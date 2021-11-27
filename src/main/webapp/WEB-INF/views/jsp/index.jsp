@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies, Marathahalli, Banglore.</h2>
-			<h3>Contact @ +91-8296242028 ,+91-9980923226</h3>
+			<h2>Welcome To Thiru Technologies, Chennai.</h2>
+			<h3>Contact @ +91-994422334455 ,+91-xxxxxxxx</h3>
 		</div>	
 	</div>
 
